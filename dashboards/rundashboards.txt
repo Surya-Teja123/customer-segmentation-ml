@@ -1,0 +1,5 @@
+cd C:\Users\surya\Desktop\customer-marketing-ml\dashboards
+streamlit run dashboard_model_comparison.py
+
+cd C:\Users\surya\Desktop\customer-marketing-ml\dashboards
+streamlit run dashboard_business_insights.py

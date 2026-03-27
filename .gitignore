@@ -1,0 +1,30 @@
+# Raw dataset (Kaggle terms of service)
+data/marketing_campaign.csv
+
+# Model files (too large for GitHub)
+models/*.pkl
+models/*.keras
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
